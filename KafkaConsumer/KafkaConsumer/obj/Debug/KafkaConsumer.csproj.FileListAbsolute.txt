@@ -1,0 +1,9 @@
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.exe.config
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.exe
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\KafkaConsumer.pdb
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\kafka-net.dll
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.csprojResolveAssemblyReference.cache
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.csproj.CoreCompileInputs.cache
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.csproj.CopyComplete
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.exe
+c:\users\billm\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\KafkaConsumer.pdb
